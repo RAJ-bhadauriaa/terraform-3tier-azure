@@ -1,7 +1,7 @@
 **Built by:** Raj Bhadauria  
 **LinkedIn:** [linkedin.com/in/raj-bhadauria-58924219b](https://www.linkedin.com/in/raj-bhadauria-58924219b/)
 
-# 3-Tier Web Application Infrastructure on Azure by Terraform
+# 3-Tier Web Application Infrastructure on Azure 
 
 A secure, scalable 3-tier web application infrastructure deployed on Azure using Terraform. This project demonstrates proper network segmentation, security controls, and Infrastructure as Code best practices.
 
