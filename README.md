@@ -200,5 +200,23 @@ telnet <db-private-ip> 1433
 
 ---
 
+## Architecture Overview
 
+![3-Tier Architecture Diagram](./images/arch.png)
+
+## Deployed Resources
+
+![Azure Resource Group](./images/rg.png)
+
+## Network Configuration
+
+![Virtual Network Subnets](./images/subnets.png)
+
+## Load Balancer Setup
+
+![Load Balancer Configuration](./images/lb.png)
+
+## Security Configuration
+
+![Network Security Groups](./images/nsg.png)
 This infrastructure follows enterprise security patterns while remaining scalable and maintainable through Infrastructure as Code practices.
